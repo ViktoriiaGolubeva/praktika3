@@ -1,0 +1,133 @@
+__Lrdata 3E FFFFFFC5 DATA
+__Hrbss 3E 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 76 0 CODE
+?a_s1out 24 0 DATA
+?a_s2out 24 0 DATA
+__Birdata 3 FFFFFFC5 DATA
+__Hirdata 3E FFFFFFC5 DATA
+__Lirdata 3E FFFFFFC5 DATA
+powerup CB 0 CODE
+__Htext 3E 0
+__Ltext 3E 0
+strx_copy 8C 0 CODE
+__Hcode 3E 0
+__Lcode 3E 0
+ldb_r0 12 0 CODE
+ldc_r0 E 0 CODE
+__Hdata 110 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 3E 0 XDATA
+ldb_r1 1F 0 CODE
+ldc_r1 1B 0 CODE
+__Hbss 3E 0 XDATA
+__Hstrings 114 0 CODE
+ldb_r2 2C 0 CODE
+ldc_r2 28 0 CODE
+__Lbss 3E 0 XDATA
+__Lstrings 110 0 CODE
+ldb_r3 39 0 CODE
+ldc_r3 35 0 CODE
+ldb_r4 46 0 CODE
+ldc_r4 42 0 CODE
+ldb_r5 53 0 CODE
+ldc_r5 4F 0 CODE
+str_xcopy 76 0 CODE
+_s1out 114 0 CODE
+_s2out 27D 0 CODE
+__S0 322 0
+ldb_r6 60 0 CODE
+ldc_r6 5C 0 CODE
+ldb_r7 6D 0 CODE
+ldc_r7 69 0 CODE
+start1 B7 0 CODE
+__Hnvram 3E 0 XDATA
+small_model 1 0
+__Lnvram 3E 0 XDATA
+ldc_byte 3 0 CODE
+__Hheap 3E 0 XDATA
+__Lheap 3E 0 XDATA
+_main 2D3 0 CODE
+str_copy 8C 0 CODE
+?a_main 20 0 DATA
+_exit C8 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 8C 0 CODE
+__Brbit 20 20 BITSEG
+str_load 8C 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 3E 0 DATA
+__Hidata 3E 0 DATA
+__Lidata 3E 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFC5 DATA
+__Hrdata 3E FFFFFFC5 DATA
+%segments
+vectors 0 CD CODE
+rbit 0 1D BITSEG
+data 100 321 CODE
+%locals
+Z:\main_0.obj
+C:\Users\class\DOCUME~1\NATION~1\CIRCUI~1.0\MCUWOR~1\3PRAK~1\8051\project1\main.c
+4 114 0 CODE
+5 117 0 CODE
+6 12E 0 CODE
+7 133 0 CODE
+8 139 0 CODE
+9 13E 0 CODE
+10 141 0 CODE
+11 144 0 CODE
+13 147 0 CODE
+15 162 0 CODE
+17 182 0 CODE
+18 192 0 CODE
+19 19A 0 CODE
+20 1AD 0 CODE
+21 1B0 0 CODE
+15 1B3 0 CODE
+23 1CD 0 CODE
+26 1EA 0 CODE
+28 1EC 0 CODE
+29 1FC 0 CODE
+30 204 0 CODE
+31 207 0 CODE
+32 20A 0 CODE
+26 20D 0 CODE
+34 227 0 CODE
+36 22E 0 CODE
+37 23E 0 CODE
+38 246 0 CODE
+39 259 0 CODE
+40 25C 0 CODE
+34 25F 0 CODE
+42 279 0 CODE
+46 27D 0 CODE
+47 27F 0 CODE
+49 285 0 CODE
+50 288 0 CODE
+51 28B 0 CODE
+54 28E 0 CODE
+56 2A3 0 CODE
+57 2B4 0 CODE
+58 2B7 0 CODE
+54 2BA 0 CODE
+60 2D0 0 CODE
+63 2D3 0 CODE
+65 2D5 0 CODE
+66 2DA 0 CODE
+67 2E0 0 CODE
+68 2E3 0 CODE
+69 2E6 0 CODE
+70 2E9 0 CODE
+72 2EC 0 CODE
+73 2F7 0 CODE
+75 318 0 CODE
+71 31D 0 CODE
+78 31F 0 CODE
